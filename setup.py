@@ -8,7 +8,7 @@ setup(
     author = 'HidekiHrk',
     author_email = 'hidekihiroki123@gmail.com', 
     url = 'https://github.com/GameCompanyGC/Python-GCDiscordMessageProtocol',
-    download_url = 'https://github.com/GameCompanyGC/Python-GCDiscordMessageProtocol/archive/0.1.tar.gz',
+    download_url = 'https://github.com/GameCompanyGC/Python-GCDiscordMessageProtocol/archive/v_01.tar.gz',
     keywords = ['GameCompany', 'GC', 'Protocol'],
     install_requires=[],
     classifiers=[
