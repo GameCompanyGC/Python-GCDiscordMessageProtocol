@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
     name = 'GcMessageProtocol',
-    packages = ['GcMessageProtocol'],
+    packages = ['GcMessageProtocol', 'GcMessageProtocol.protocols'],
     version = '0.1',
     license='MIT',
     description = 'A protocol to standardize the conversation between all GameCompany bots with logs',
